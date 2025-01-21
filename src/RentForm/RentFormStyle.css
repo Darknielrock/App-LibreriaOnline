@@ -1,0 +1,41 @@
+.rent-form {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #fff;
+    margin: 16px 0;
+  }
+  
+  .rent-form h2 {
+    margin-bottom: 16px;
+  }
+  
+  .form-group {
+    margin-bottom: 12px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 4px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .rent-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .rent-button:hover {
+    background-color: #0056b3;
+  }
+  

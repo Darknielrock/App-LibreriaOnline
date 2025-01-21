@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4A90E2;
+    color: white;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .logo h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav ul li {
+    margin: 0;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #FFD700;
+  }
+
+  .clickable {
+    cursor: pointer;
+  }
+  
