@@ -8,7 +8,7 @@ import NotFound from "./NotFound/NotFoundComponent.jsx";
 import ContactUs from "./ContactUs/ContactUsComponent.jsx";
 import GaleryBooks from "./BooksLibrary/BooksLibreryComponents.jsx";
 
-import "./App.css"; // Si deseas usar un archivo CSS para estilos generales
+import "./app.css"; // Si deseas usar un archivo CSS para estilos generales
 
 const App = () => {
   return (
